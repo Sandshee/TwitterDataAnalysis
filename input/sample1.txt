@@ -1,0 +1,6 @@
+What does it mean?
+data stored in multiple locations
+independent failures
+transfer costs
+remote data may be accessed differently from local data
+programmer needs to take account of these

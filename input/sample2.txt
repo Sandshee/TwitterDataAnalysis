@@ -1,0 +1,4 @@
+Distribution of data has both benefits and costs
+can improve scalability, performance, resilience
+harder to write software, more to go wrong, harder to understand system
+MapReduce as one particular approach to programming with distributed data
